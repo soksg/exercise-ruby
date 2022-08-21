@@ -1,0 +1,5 @@
+puts"webcamp".swapcase
+
+
+
+
